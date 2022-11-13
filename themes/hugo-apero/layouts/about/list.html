@@ -49,12 +49,12 @@
     {{ $sidebar_pg := site.GetPage $sidebar }}
     {{ with $sidebar_pg }}
         <sidebar class="about-sidebar order-1 {{ if $page.Params.sidebar_left }}order-1-l{{ else }}mr4-l order-2-l{{ end }} mh0 w-third-l w-100-ns" id="profile">
-          <div class="pt3 pb1 pb2-ns tc ph4">
+          <div class="tc">
             {{ if .Params.avatar_shape }}
               {{- $avatar := ($sidebar_pg.Resources.ByType "image").GetMatch "*avatar*" -}}
               {{ $avatar_shape := .Params.avatar_shape | default "circle" }}
               {{ with $avatar }}
-                <img src="{{ .RelPermalink }}" class="h4 w4 dib {{if eq $avatar_shape "rounded"}}br3{{end}}{{if eq $avatar_shape "circle"}}br-100{{end}}" alt="avatar">
+                <img src="{{ .RelPermalink }}" class="h6 w5 dib {{if eq $avatar_shape "rounded"}}br3{{end}}{{if eq $avatar_shape "circle"}}br-100{{end}}" alt="avatar">
               {{ end }}
             {{ end }}
             <h2 class="f-subheadline f4-ns fw6">{{ .Params.author }}</h2>
