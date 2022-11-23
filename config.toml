@@ -1,8 +1,8 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Hugo Apéro"
-author = "Alison Hill"
+title = "Khô Mực"
+author = "Trang Lê"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
@@ -28,12 +28,12 @@ enableEmoji = true
     style = "github"
 
 [params]
-  orgName = "RStudio"
+  orgName = "Khô Mực"
   orgLocal = "Anywhere"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  description = "Chất xúc tác cho personal statement của bạn"
   favicon = "/img/favicon.ico"
   logo = "/img/squid.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["blog", "team", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -43,7 +43,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  twitter = "trangdata"
 
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -51,7 +51,7 @@ enableEmoji = true
   theme = "peach"
 
   # or, leave theme empty & make your own palette
-  # see docs at https://hugo-apero.netlify.app/blog/color-themes/
+  # see docs at https://hugo-khomuc.netlify.app/blog/color-themes/
   # the custom scss file must be in the assets/ folder
   # add the filename name here, without extension
   # to use hex colors instead of named tachyons colors, include "hex" in filename
@@ -71,7 +71,7 @@ enableEmoji = true
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
     use_utterances = true
-    repo_name = "apreshill/apero"
+    repo_name = "trangdata/khomuc"
     issue_term = "pathname" # url, pathname, or title
     theme = "boxy-light"
     label = "comments :crystal_ball:"
@@ -88,27 +88,27 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
+      url       = "https://github.com/trangdata/khomuc"
   [[params.social]]
       icon      = "facebook-square" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
+      url       = "https://www.facebook.com/hashtag/khomuc"
   [[params.social]]
       icon      = "instagram" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.instagram.com/explore/tags/apero/"
+      url       = "https://www.instagram.com/explore/tags/khomuc/"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
+      url       = "https://twitter.com/hashtag/khomuc"
   [[params.social]]
       icon      = "impactstory" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://impactstory.org/u/0000-0002-8082-1890"
+      url       = "https://impactstory.org/u/0000-0003-3737-6565"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "http://orcid.org/0000-0002-8082-1890"
+      url       = "http://orcid.org/0000-0003-3737-6565"
   [[params.social]]
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"
@@ -123,7 +123,7 @@ enableEmoji = true
   # Configure header
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About"
     url = "/about/"
     weight = 1
   [[menu.header]]
@@ -132,9 +132,9 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
+    name = "Team"
+    title = "Team"
+    url = "/team/"
     weight = 3
   [[menu.header]]
     name = "Talks"
@@ -152,6 +152,12 @@ enableEmoji = true
     url = "/elements/"
     weight = 6
 
+  [[menu.header]]
+    name = "Contact us"
+    title = "Contact form"
+    url = "/contact/"
+    weight = 7
+
   # Configure footer
   [[menu.footer]]
     name = "License"
@@ -159,15 +165,10 @@ enableEmoji = true
     url = "/license/"
     weight = 1
   [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
-  [[menu.footer]]
     name = "Contributors"
     title = "Contributors"
     url = "/contributors/"
-    weight = 3
+    weight = 2
 
 # see https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
