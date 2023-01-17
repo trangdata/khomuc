@@ -131,32 +131,30 @@ enableEmoji = true
     title = "Blog"
     url = "/blog/"
     weight = 2
+
+  [[menu.header]]
+    name = "Tips"
+    title = "Tips"
+    url = "/collection/"
+    weight = 3
+
+  [[menu.header]]
+    name = "Resources"
+    title = "Resources"
+    url = "/talk/"
+    weight = 4
+
   [[menu.header]]
     name = "Team"
     title = "Team"
     url = "/team/"
-    weight = 3
-  [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
-    weight = 4
-  [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
     weight = 5
-  [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 6
 
   [[menu.header]]
     name = "Contact us"
     title = "Contact form"
     url = "/contact/"
-    weight = 7
+    weight = 6
 
   # Configure footer
   [[menu.footer]]
