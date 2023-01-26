@@ -135,7 +135,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Tips"
     title = "Tips"
-    url = "/collection/"
+    url = "/tips/"
     weight = 3
 
   [[menu.header]]

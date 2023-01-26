@@ -1,8 +1,5 @@
 ---
 author: Trang Lê
-categories:
-- introduction
-- writing
 date: "2019-07-02"
 draft: false
 excerpt: |
@@ -29,7 +26,8 @@ tags:
 title: Thảo Trang
 ---
 
-Xin chào. :wave: 
-Mình hiện tại đang làm khoa học dữ liệu ở Bristol Myers Squibb. 
+Chào bạn. :wave: 
+Mình là Trang. Mình hiện tại đang làm khoa học dữ liệu ở công ty dược Bristol Myers Squibb.
+
 Ngày xưa, vì là dân chuyên toán mình rất ngại viết văn, nhưng quá trình học cao học đã buộc mình phải viết (và sửa) rất nhiều.
 Vì thế, mình muốn chia sẻ kinh nghiệm mình đã thu thập được trong nhiều năm qua cho những bạn cùng hoàn cảnh với mình. :sunflower:
