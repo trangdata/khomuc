@@ -20,9 +20,6 @@ links:
   icon_pack: far
   name: Slides
   url: http://slides.com/trangdata
-subtitle: ""
-tags:
-- hugo-site
 title: Thảo Trang
 ---
 

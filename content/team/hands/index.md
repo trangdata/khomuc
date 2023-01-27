@@ -20,8 +20,6 @@ links:
   name: +84 369 663399
   url: https://www.facebook.com/trang.nguyen.6821/
 subtitle: IELTS, SAT, Scholarship applications
-tags:
-- hugo-site
 title: Hands for Hands
 ---
 
