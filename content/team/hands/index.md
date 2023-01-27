@@ -1,6 +1,6 @@
 ---
 author: Trang Nguyễn
-date: "2019-07-01"
+date: "2023-01-27"
 draft: false
 excerpt: Khô Mực rất vui vì được cộng tác với Hands for Hands, nhóm hỗ trợ các bạn học sinh, sinh viên về nhiều mảng liên quan đến du học. Hands giúp Mực hiểu hơn về cuộc sống và nhu cầu của các bạn trẻ. Cùng nhau, bọn mình hi vọng các bạn sẽ chuẩn bị được hành trang vững chắc để tự tin nộp hồ sơ cho những trường đại học bạn hằng mong muốn.
 layout: single

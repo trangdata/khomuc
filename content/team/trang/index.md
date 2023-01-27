@@ -1,6 +1,6 @@
 ---
 author: Trang Lê
-date: "2019-07-02"
+date: "2023-01-28"
 draft: false
 excerpt: |
   Ngày xưa, vì là dân chuyên toán mình rất ngại viết văn, nhưng quá trình học cao học đã buộc mình phải viết rất nhiều.

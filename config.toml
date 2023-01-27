@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Chất xúc tác cho personal statement của bạn"
   favicon = "/img/favicon.ico"
   logo = "/img/squid.png"
-  mainSections = ["blog", "team", "talk"]
+  mainSections = ["team", "resources"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -126,11 +126,11 @@ enableEmoji = true
     title = "About"
     url = "/about/"
     weight = 1
-  [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
-    weight = 2
+#  [[menu.header]]
+#    name = "Blog"
+#    title = "Blog"
+#    url = "/blog/"
+#    weight = 2
 
   [[menu.header]]
     name = "Tips"
@@ -141,7 +141,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Resources"
     title = "Resources"
-    url = "/talk/"
+    url = "/resources/"
     weight = 4
 
   [[menu.header]]
