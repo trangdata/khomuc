@@ -1,7 +1,7 @@
 ---
 author: Ngọc Tạ
 date: "2023-01-22"
-excerpt: Khô Mực rất vui vì được cộng tác với Hands for Hands, nhóm hỗ trợ các bạn học sinh, sinh viên về nhiều mảng liên quan đến du học. Hands giúp Mực hiểu hơn về cuộc sống và nhu cầu của các bạn trẻ. Cùng nhau, bọn mình hi vọng các bạn sẽ chuẩn bị được hành trang vững chắc để tự tin nộp hồ sơ cho những trường đại học bạn hằng mong muốn.
+excerpt: Lúc nhỏ mình nghĩ muốn viết hay phải dùng từ ngữ bay bổng hay ngữ pháp phức tạp. Nhưng giờ mình hiểu người viết hiệu quả là người làm cho độc giả hiểu được những ý tưởng mình muốn truyền đạt.
 layout: single
 links:
 - icon: facebook
