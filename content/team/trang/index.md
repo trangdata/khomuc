@@ -1,12 +1,10 @@
 ---
 author: Trang Lê
-date: "2023-01-28"
-draft: false
+date: "2023-01-20"
 excerpt: |
   Ngày xưa, vì là dân chuyên toán mình rất ngại viết văn, nhưng quá trình học cao học đã buộc mình phải viết rất nhiều.
   Sau nhiều năm rèn luyện viết báo cáo khoa học, emails, sửa bài cho mọi người, mình đúc kết được vài mẩu kiến thức be bé hi vọng sẽ có ích cho các bạn. :sunflower:
-featured: true
-layout: single-sidebar
+layout: single
 links:
 - icon: door-open
   icon_pack: fas
@@ -20,9 +18,7 @@ links:
   icon_pack: far
   name: Slides
   url: http://slides.com/trangdata
-subtitle: ""
-tags:
-- hugo-site
+subtitle: Massachusetts, US
 title: Thảo Trang
 ---
 

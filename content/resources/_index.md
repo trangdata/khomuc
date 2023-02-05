@@ -11,7 +11,7 @@ cascade:
     text_link_label: View recent talks
     text_link_url: /resources/
 description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
+  Links to a few different resources and websites that will help you get started.
 layout: list
 show_author_byline: true
 show_button_links: true

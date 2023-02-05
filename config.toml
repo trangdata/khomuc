@@ -126,17 +126,11 @@ enableEmoji = true
     title = "About"
     url = "/about/"
     weight = 1
-#  [[menu.header]]
-#    name = "Blog"
-#    title = "Blog"
-#    url = "/blog/"
-#    weight = 2
-
   [[menu.header]]
-    name = "Tips"
-    title = "Tips"
-    url = "/tips/"
-    weight = 3
+   name = "Blog"
+   title = "Blog"
+   url = "/blog/"
+   weight = 2
 
   [[menu.header]]
     name = "Resources"

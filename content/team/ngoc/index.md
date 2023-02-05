@@ -1,14 +1,14 @@
 ---
 author: Ngọc Tạ
-date: "2023-01-29"
-draft: false
+date: "2023-01-22"
 excerpt: Lúc nhỏ mình nghĩ muốn viết hay phải dùng từ ngữ bay bổng hay ngữ pháp phức tạp. Nhưng giờ mình hiểu người viết hiệu quả là người làm cho độc giả hiểu được những ý tưởng mình muốn truyền đạt.
-layout: single-sidebar
+layout: single
 links:
 - icon: facebook
   icon_pack: fab
   name: facebook
   url: https://www.facebook.com/baongoc2492
+subtitle: Paris, France
 title: Bảo Ngọc
 ---
 
