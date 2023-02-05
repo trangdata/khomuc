@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Chất xúc tác cho personal statement của bạn"
   favicon = "/img/favicon.ico"
   logo = "/img/squid.png"
-  mainSections = ["team", "resources"]
+  mainSections = ["blog", "team", "resources"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
