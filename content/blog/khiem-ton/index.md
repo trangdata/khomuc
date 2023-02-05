@@ -3,7 +3,7 @@ author: Trang Lê
 categories:
 - cover letter
 - interview
-date: "2023-02-06"
+date: "2023-02-05"
 draft: false 
 excerpt: |
   Vậy làm sao để mình khoe vừa, không khoe quá?
@@ -50,8 +50,7 @@ Mục đích của thư xin nhập học, thư xin việc và những buổi ph�
 Thường trong cuối buổi phỏng vấn sẽ có cơ hội cho bạn hỏi lại người phỏng vấn.
 Alex cuối cùng thì cũng không được nhận làm việc chỗ đấy[^1].
 Mình nghĩ không phải Alex khoe quá hay chủ quan quá.
-Chuyện một ứng viên trúng tuyển hay không phụ thuộc vào nhiều yếu tố lắm 
-(Viết thêm về chủ đề này How to Accept Rejections chắc phải mất vài trang khác).
+Chuyện một ứng viên trúng tuyển hay không phụ thuộc vào nhiều yếu tố lắm (Viết thêm về chủ đề này How to Accept Rejections chắc phải mất vài trang khác).
 Nhưng dù trả lời một cách lạc quan hay bi quan cho câu hỏi của mình, mày interview thế nào, Alex hài lòng với chính bản thân vì hắn đã cố gắng hết sức rồi.
 
 [^1]: Nhưng bây giờ hắn có việc làm tốt lắm rồi, yêu công việc lắm, bạn đừng lo.
@@ -68,4 +67,4 @@ Và làm sao để sửa đổi những lời khuyên nhủ, dặn dò của m�
 > We can favor content and sources that present many sides of an issue rather than just one or two.
 > When we come across simplifying headlines, we can fight our tendency to accept binaries by asking what additional perspectives are missing between the extremes.
 
-*— Adam Grant, [Think Again](https://www.goodreads.com/book/show/55539565-think-again)*
+*--- Adam Grant, [Think Again](https://www.goodreads.com/book/show/55539565-think-again)*

@@ -3,7 +3,7 @@ author: Adam Grant
 categories:
 - cover letter
 - interview
-date: "2023-02-05"
+date: "2023-02-03"
 draft: false 
 excerpt: Bằng cách thừa nhận những thiếu sót của mình, bạn cho nhà tuyển dụng thấy rằng bạn hiểu chính mình đủ để biết những lĩnh vực cần cải thiện của mình—và đủ tự tin để cởi mở về chúng. 
 layout: single-sidebar
