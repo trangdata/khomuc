@@ -1,12 +1,12 @@
 ---
-author: Alison Hill
+author: Ngọc Tạ
 cascade:
-  author: Alison Hill
+  author: Ngọc Tạ
   categories:
-  - Theme Features
-  - R
+  - writing
+  - tips
   layout: single-series
-  series: A Spoonful of Hugo
+  series: Bitesize tips on writing
   show_author_byline: true
   show_post_date: true
   sidebar:
@@ -24,18 +24,14 @@ show_author_byline: true
 show_post_date: true
 show_post_thumbnail: false
 sidebar:
-  author: Alison Hill
+  author: Ngọc Tạ
   description: |
-    A forking fun new feature for series.
-    Even this sidebar offers a ton of customizations!
-
-    Check out the _index.md file in the /blog/spoonful-series
-    folder to edit this content.
+    Hi vọng bạn sẽ tìm thấy một vài mẩu kiến thức có ích cho chính mình, từ cách phát triển ý tưởng đến việc xây dựng cấu trúc bài văn.
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
-  title: A Spoonful of Hugo
-title: A Spoonful of Hugo
+  title: Bitesize tips on writing
+title: Bitesize tips on writing
 ---
 
 ** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**
