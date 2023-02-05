@@ -29,7 +29,7 @@ enableEmoji = true
 
 [params]
   orgName = "Khô Mực"
-  orgLocal = "Anywhere"
+  orgLocal = "Việt Nam"
   description = "Chất xúc tác cho personal statement của bạn"
   favicon = "/img/favicon.ico"
   logo = "/img/squid.png"
