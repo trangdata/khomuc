@@ -55,7 +55,7 @@ Mình nghĩ không phải Alex khoe quá hay chủ quan quá.
 Chuyện một ứng viên trúng tuyển hay không phụ thuộc vào nhiều yếu tố lắm (viết thêm về chủ đề này How to Accept Rejections chắc phải mất vài trang khác).
 Nhưng dù trả lời một cách lạc quan hay bi quan cho câu hỏi của mình, mày interview thế nào, Alex hài lòng với chính bản thân vì hắn đã cố gắng hết sức rồi.
 
-[^1]: Nhưng bây giờ hắn có việc làm tốt lắm rồi, yêu công việc lắm, bạn đừng lo.
+[^1]: Nhưng bây giờ hắn có việc làm tốt rồi, yêu công việc lắm, bạn đừng lo.
 
 ### Be skeptical
 

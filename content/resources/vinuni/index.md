@@ -28,5 +28,6 @@ Dựa vào những góc nhìn khác nhau về các cách tiếp cận một bài
 
 Vậy nên để giúp video này tiếp cận rộng rãi hơn tới các bạn trẻ, hãy react và share bài này nhe hjhjhjhjhj.
 
-
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8LGglC77DS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
