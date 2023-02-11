@@ -64,8 +64,10 @@ nhưng khi mới bắt đầu thì các bạn có thể tập như vậy.
 Tiếp theo là về câu hỏi tu từ và đảo ngữ.
 Đây là những điểm ngữ pháp nâng cao và nếu các bạn thực sự biết cách sử dụng chúng trong IELTS Writing Part 2 thì điểm của các bạn sẽ rất cao.
 Tuy nhiên hãy THẬN TRỌNG khi dùng trong personal statement!!!!
-Câu hỏi tu từ (rhetorical questions) có thể tạo cảm giác sến (cheesy), còn đảo ngữ thì đừng sai cấu trúc.
+Câu hỏi tu từ (rhetorical questions) có thể tạo cảm giác sến[^2] (cheesy, cringey), còn đảo ngữ thì đừng sai cấu trúc.
 Mục đích dùng đảo ngữ là để nhấn mạnh, mà đã nhấn mạnh lại còn sai cấu trúc nữa thì càng làm lộ cái sai ra đó.
+
+[^2]: [Are Rhetorical Questions Hurting Your Essays? \| Blog \| Admissionado](https://admissionado.com/blog/college/asking-rhetorical-questions-in-essays/)
 
 Ta phân tích ví dụ sau:
 
