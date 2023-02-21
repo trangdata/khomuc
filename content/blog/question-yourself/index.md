@@ -1,8 +1,9 @@
 ---
 author: Ngọc Tạ
 categories:
-- cover letter
-- interview
+- motivation
+- procrastination
+- where to start
 date: "2023-02-21"
 draft: false 
 excerpt: |
@@ -14,13 +15,13 @@ excerpt: |
   30 phút sau quay lại, file Word của bạn vẫn trắng tinh như lúc đầu.
   Does that sound familiar?
 layout: single-sidebar
-subtitle: Bí quá thì làm gì? Or where do I start?
+subtitle: Những câu hỏi tự khám phá bản thân
 tags:
   - writing
   - ideas
   - questions
   - writer's block
-title: Câu hỏi tự khám phá bản thân
+title: Bí quá thì làm gì? 
 ---
 
 #### Bạn đang ngồi trước một file Word trống trơn. Con trỏ nhấp nháy. Ngồi đây 30 giây rồi vẫn chưa viết được chữ nào. Bạn bồn chồn. Không tập trung. Đầu óc bạn sao nhãng, bắt đầu suy nghĩ đến một việc gì đấy không liên quan. Bạn check email, lướt web một tí. 30 phút sau quay lại, file Word của bạn vẫn trắng tinh như lúc đầu.
