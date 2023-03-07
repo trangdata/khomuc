@@ -26,7 +26,7 @@ title: Bí quá thì làm gì?
 
 #### Bạn đang ngồi trước một file Word trống trơn. Con trỏ nhấp nháy. Ngồi đây 30 giây rồi vẫn chưa viết được chữ nào. Bạn bồn chồn. Không tập trung. Đầu óc bạn sao nhãng, bắt đầu suy nghĩ đến một việc gì đấy không liên quan. Bạn check email, lướt web một tí. 30 phút sau quay lại, file Word của bạn vẫn trắng tinh như lúc đầu.
 
-Nghe có quan không?
+Nghe có qun không?
 
 Bao nhiêu lần rồi, bạn cố gắng bắt đầu viết, nhưng nặn não hoài không ra chữ nào?
 
