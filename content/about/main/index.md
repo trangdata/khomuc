@@ -10,7 +10,7 @@ intro: |
   
   Việc viết luận nhập học không phải lúc nào cũng dễ dàng. Khô Mực sẽ giúp bạn phát triển ý tưởng, làm nổi bật những trải nghiệm, giọng văn riêng của mình, hoà quyện những yếu tố hiện thực và lãng mạn để câu chuyện trở nên cuốn hút hơn. Cùng nhau, chúng ta sẽ thảo luận những lỗi thường gặp và tìm cách cải thiện chúng.
   
-  Tiêu chí của chúng mình là “sửa trên những bài văn thực để các bạn có thể rút kinh nghiệm tự sửa bài của bạn". Thay vì đề cao sự hoàn hảo, thông qua những bài posts trên Khô Mực, chúng mình muốn promote văn hoá Learning from mistakes — mọi người học từ lỗi sai của bản thân và lỗi sai của nhau để chúng ta cùng nhau hoàn thiện. 
+  Tiêu chí của chúng mình là “sửa trên những bài văn thực để các bạn có thể rút kinh nghiệm tự sửa bài của bạn". Thay vì đề cao sự hoàn hảo, thông qua những bài posts trên Khô Mực, chúng mình muốn khuyến khích văn hoá Learning from mistakes — mọi người học từ lỗi sai của bản thân và lỗi sai của nhau để chúng ta cùng nhau hoàn thiện. 
 
   Khô Mực chúng mình chỉ chuyên về việc viết lách, không tư vấn du học nói chung nhưng bạn có thể liên hệ với [Hands for Hands](../team/hands/) để tìm hiểu thêm. Chúng mình cũng không viết bài hộ bạn. Bạn luôn là chủ nhân câu chuyện của mình.
   
