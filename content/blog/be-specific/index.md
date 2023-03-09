@@ -38,7 +38,7 @@ Thay vào đó, hãy mô tả lý do tại sao bạn cảm thấy đất nước
 Bằng cách đó, bạn cho người đọc một bài luận cá nhân có ý nghĩa mà họ có thể liên tưởng đến.
 Chẳng hạn như một người bạn gặp với một câu chuyện khiến bạn muốn tìm hiểu thêm về đất nước này. 
 
-Sau đây, chúng ta phân tích đoạn hội thoại với GPT-3 của bọn mình:
+Sau đây, chúng ta phân tích đoạn hội thoại với GPT-3 (thế hệ 0 của ChatGPT) của bọn mình:
 
 How should one respond to "Why do you want to study abroad in France"?
 
