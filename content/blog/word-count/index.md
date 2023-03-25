@@ -3,7 +3,7 @@ author: Ngọc Tạ
 categories:
   - word count
   - writing
-date: "2023-03-09"
+date: "2023-03-24"
 draft: false 
 excerpt: | 
   Word count thì có gì đâu mà phải nói nhỉ? Chỉ là phải viết ít hơn số lượng chữ (hoặc ký tự) cho phép thôi mà?
@@ -48,6 +48,7 @@ Tiếp tục sửa đi sửa lại vài lần, cắt gọt câu văn, sửa đ�
 Các bạn cũng có thể dùng ChatGPT hoặc Quillbot cho bước này, nhưng vẫn phải double check chứ không phải cứ sử dụng đáp án là xong.
 
 Voilà, và đây là cách mình dùng cho các bài viết giới hạn số lượng chữ.
-Mình hy vọng có thể giúp các bạn có những bài viết chất lượng hơn :smiley:
+Mình hy vọng có thể giúp các bạn có những bài viết chất lượng hơn.
+:smiley:
 
   
