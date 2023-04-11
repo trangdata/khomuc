@@ -8,8 +8,24 @@ links:
   icon_pack: fab
   name: facebook
   url: https://www.facebook.com/baongoc2492
+- icon: linkedin
+  icon_pack: fab
+  name: linkedin
+  url: https://www.linkedin.com/in/ngoc-ta-a3798956/
 subtitle: Paris, France
-title: Bảo Ngọc
+title: Bảo Ngọc, Co-Founder
+schools: |
+  Lê Quý Đôn (Vũng Tàu),
+  Ruthin school (North Wales),
+  London School of Economics (England) 
+work: |
+  Investment officer at Metain.io,
+  Customer service and bookkeeper at Trangs SAS,
+  Private English tutor
+highlight: |
+  Full ride scholarship to Ruthin School — North Wales at grade 11;
+  1 personal statement, 5/5 university offers
+
 ---
 
 ## Lúc nhỏ mình nghĩ muốn viết hay phải dùng từ ngữ bay bổng hay ngữ pháp phức tạp. Nhưng giờ mình hiểu người viết hiệu quả là người làm cho độc giả hiểu được những ý tưởng mình muốn truyền đạt.

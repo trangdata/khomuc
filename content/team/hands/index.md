@@ -12,6 +12,10 @@ links:
   icon_pack: fab
   name: instagram
   url: https://www.instagram.com/handsforhands.vietnam/
+- icon: linkedin
+  icon_pack: fab
+  name: linkedin
+  url: https://www.linkedin.com/company/hands-for-hands-vietnam/
 - icon: envelope
   name: email
   url: mailto:HandsForHandsVietnam@gmail.com
@@ -19,7 +23,7 @@ links:
   name: +84 369 663399
   url: https://www.facebook.com/trang.nguyen.6821/
 subtitle: IELTS, SAT, Scholarship applications
-title: Hands for Hands
+title: Hands for Hands, Partner
 ---
 
 Hands For Hands Vietnam là nhóm hỗ trợ các em học sinh, sinh viên trong nhiều mảng khác nhau, bao gồm luyện thi IELTS, SAT, THPT.

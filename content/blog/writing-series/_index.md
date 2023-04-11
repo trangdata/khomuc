@@ -17,8 +17,6 @@ cascade:
     text_series_label: In this series
   tags:
   - hugo-site
-description: |
-  A forking fun new feature for series.
 layout: list-sidebar
 show_author_byline: true
 show_post_date: true
