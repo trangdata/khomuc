@@ -23,25 +23,17 @@ work: |
   Customer service and bookkeeper at Trangs SAS,
   Private English tutor
 highlight: |
-  Full ride scholarship to Ruthin School — North Wales at grade 11;
+  Học bổng toàn phần của trường Ruthin School — North Wales năm lớp 11;
   1 personal statement, 5/5 university offers
 
 ---
 
-## Lúc nhỏ mình nghĩ muốn viết hay phải dùng từ ngữ bay bổng hay ngữ pháp phức tạp. Nhưng giờ mình hiểu người viết hiệu quả là người làm cho độc giả hiểu được những ý tưởng mình muốn truyền đạt.
+Viết không phải là một công việc dễ dàng, bản thân mình vẫn luôn thấy vậy. Bẩm sinh mình cũng không văn hay chữ tốt. Con đường tập viết trong tất cả các ngôn ngữ của mình luôn trắc trở gian nan và cần sự đồng hành của thầy cô và các bạn. Mỗi lần nhận góp ý lại là cơ hội để mình tự hoàn thiện bản thân.
+Đến bây giờ mình cũng vẫn đang tự rèn luyện trên con đường tập giao tiếp. Lúc nhỏ mình nghĩ muốn viết hay phải biết dùng từ ngữ bay bổng hay ngữ pháp phức tạp. Nhưng giờ mình hiểu viết hiệu quả là làm cho độc giả hiểu được chính xác điều mình cần truyền đạt. Vậy thì mấu chốt ở đây là phải có ý tưởng.
+Mình và chị Trang thành lập dự án Khô Mực vì nhờ những kinh nghiệm trong quá trình học và dạy viết, chúng mình sẽ giúp các bạn chọn lọc những ý tưởng thể hiện đúng bản thân, đồng thời truyền đạt những ý tưởng đó cho admissions officers. Bọn mình cùng cố gắng nhé!!!!!
 
 ---
 
-Đấy có mỗi cái việc viết bio này mà mình cũng delay hơn tuần rồi. Thực sự viết không phải là một công việc dễ dàng, bản thân mình đến bây giờ vẫn thấy thế. Nhưng khó ai có thể phủ nhận tầm quan trọng của việc diễn đạt chính xác thông tin mình muốn trình bày. Cho nên là cố lên, phải tập luyện hàng ngày thôi. 😁
-
-Mình sẽ kể lại một chút quá trình học viết của mình cho các bạn thêm động lực nhé. Mình cũng không thuộc dạng bẩm sinh văn hay chữ tốt. Cấp 1 và cấp 2 mình sợ nhất môn Văn. Cấp 3 thì dần hiểu ra yêu cầu của bộ môn nên là đỡ sợ hơn, nhưng cái cảm giác uể oải chán chường bế tắc mỗi khi phải bắt đầu một bài văn mới vẫn luôn hiện diện ở đấy.
-
-Còn về việc viết bằng tiếng Anh thì ôi thôi rồi. Mình học chuyên Anh, mới loe ngoe vào lớp 10 đã nghe cô mắng xối xả vì không biết viết một đoạn văn đàng hoàng tử tế. Bài thuyết trình xin học bổng A-level của mình cũng mất một tuần trời chỉ để nghĩ ý (và sau đó cũng chỉnh sửa gần hết). Nhưng cuối cùng mình đã có học bổng. 
-
-Đến lúc học ở Ruthin thì cũng được chào mừng bằng (những) bài mắng của cô giáo và những giờ phút trăn trở vì tội chưa biết làm IELTS writing và chưa biết trả lời essay questions cho môn Luật. 😂
-
-Mối quan hệ giữa mình và việc Viết vẫn chưa êm xuôi được. Trường đại học lại giúp mình có cơ hội diện kiến giáo viên trong các bộ môn khác nhau (vì viết tệ quá á). Mỗi lần nhận feedback trực tiếp của giáo viên lại là cơ hội để mình tự hoàn thiện bản thân. 
-
-Đến bây giờ mình cũng vẫn đang tự rèn luyện trên con đường tập giao tiếp. Lúc nhỏ mình nghĩ muốn viết hay phải dùng từ ngữ bay bổng hay ngữ pháp phức tạp. Nhưng giờ mình hiểu người viết hiệu quả là người làm cho độc giả hiểu được những ý tưởng mình muốn truyền đạt. Vậy thì mấu chốt ở đây là phải có ý tưởng. 
-
-Mình và chị Trang thành lập dự án Khô Mực vì nhờ những kinh nghiệm trong quá trình học và dạy viết, chúng mình sẽ giúp các bạn chọn lọc những ý tưởng thể hiện đúng bản thân, đồng thời truyền đạt những ý tưởng đó cho admissions officers. Bọn mình cùng cố gắng nhé!!!!!
+I always find writing to be challenging. I was not naturally gifted with the ability to express myself with ease. Writing in all languages I learnt was difficult for me, and I needed my teachers and friends to help. Everytime I received feedback was an opportunity to better myself.
+Even now, I am continuously improving my writing skills. When I was young and naive, I believed that the key to writing well lay in sophisticated vocabulary and complex grammar. However, I have since come to understand that effective writing is about conveying your message clearly and concisely to your readers.
+Trang and I established the Kho Muc project based on our experiences with learning and teaching writing. Our goal is to help you select ideas that accurately represent yourself and effectively communicate them to admissions officers. Let's work together!
