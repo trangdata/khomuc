@@ -5,7 +5,7 @@ categories:
   - IBDP
   - highschool
   - undergrad
-date: "2023-04-21"
+date: "2023-04-19"
 draft: false 
 excerpt: | 
   Em nên học cấp 3 ở đâu? A level và IB curricula khác nhau như thế nào?
