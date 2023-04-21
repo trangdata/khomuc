@@ -15,6 +15,7 @@ intro: |
   Khô Mực chúng mình chỉ chuyên về việc viết lách, không tư vấn du học nói chung nhưng bạn có thể liên hệ với [Hands for Hands](../team/hands/) để tìm hiểu thêm. Chúng mình cũng không viết bài hộ bạn. Bạn luôn là chủ nhân câu chuyện của mình.
   
   Khô Mực tâm huyết rằng, một câu chuyện súc tích mà lôi cuốn sẽ giúp người đọc đồng cảm hơn, thế giới của họ sẽ rộng mở hơn, phong phú hơn khi họ nghe được những câu chuyện đậm chất Việt của các bạn.
+
 show_outro: true
 outro: |
   <i class="fas fa-shoe-prints pr2"></i>Bọn mình không phải studio  <http://khomuc.me> nhe!
