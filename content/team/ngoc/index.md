@@ -28,9 +28,9 @@ highlight: |
 
 ---
 
-Viết không phải là một công việc dễ dàng, bản thân mình vẫn luôn thấy vậy. Bẩm sinh mình cũng không văn hay chữ tốt. Con đường tập viết trong tất cả các ngôn ngữ của mình luôn trắc trở gian nan và cần sự đồng hành của thầy cô và các bạn. Mỗi lần nhận góp ý lại là cơ hội để mình tự hoàn thiện bản thân.
-Đến bây giờ mình cũng vẫn đang tự rèn luyện trên con đường tập giao tiếp. Lúc nhỏ mình nghĩ muốn viết hay phải biết dùng từ ngữ bay bổng hay ngữ pháp phức tạp. Nhưng giờ mình hiểu viết hiệu quả là làm cho độc giả hiểu được chính xác điều mình cần truyền đạt. Vậy thì mấu chốt ở đây là phải có ý tưởng.
-Mình và chị Trang thành lập dự án Khô Mực vì nhờ những kinh nghiệm trong quá trình học và dạy viết, chúng mình sẽ giúp các bạn chọn lọc những ý tưởng thể hiện đúng bản thân, đồng thời truyền đạt những ý tưởng đó cho admissions officers. Bọn mình cùng cố gắng nhé!!!!!
+  Viết không phải là một công việc dễ dàng, bản thân mình vẫn luôn thấy vậy. Bẩm sinh mình cũng không văn hay chữ tốt. Con đường tập viết trong tất cả các ngôn ngữ của mình luôn trắc trở gian nan và cần sự đồng hành của thầy cô và các bạn. Mỗi lần nhận góp ý lại là cơ hội để mình tự hoàn thiện bản thân.
+  Đến bây giờ mình cũng vẫn đang tự rèn luyện trên con đường tập giao tiếp. Lúc nhỏ mình nghĩ muốn viết hay phải biết dùng từ ngữ bay bổng hay ngữ pháp phức tạp. Nhưng giờ mình hiểu viết hiệu quả là làm cho độc giả hiểu được chính xác điều mình cần truyền đạt. Vậy thì mấu chốt ở đây là phải có ý tưởng.
+  Mình và chị Trang thành lập dự án Khô Mực vì nhờ những kinh nghiệm trong quá trình học và dạy viết, chúng mình sẽ giúp các bạn chọn lọc những ý tưởng thể hiện đúng bản thân, đồng thời truyền đạt những ý tưởng đó cho admissions officers. Bọn mình cùng cố gắng nhé!!!!!
 
 ---
 
