@@ -22,6 +22,7 @@ Artists:
 -   [Mariia Zakatiura](https://unsplash.com/@mzakatiura)
 -   [Francesca Grima](https://unsplash.com/@francescagrima)
 -   [Jaeyoung Geoffrey Kang](https://unsplash.com/@geoffreykang_21)
+-   [Richard Horvath](https://unsplash.com/@orwhat)
 
 <center>
 <i class="fab fa-creative-commons fa-2x"></i><i class="fab fa-creative-commons-by fa-2x"></i><i class="fab fa-creative-commons-sa fa-2x"></i>

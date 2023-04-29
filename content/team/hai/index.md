@@ -1,6 +1,6 @@
 ---
 author: Cady Hai Tran
-date: "2022-01-19"
+date: "2023-01-10"
 excerpt: |
   Niềm đam mê của cô đối với việc truyền đạt và giúp đỡ sinh viên đạt được mục tiêu học tập của họ rõ ràng hiện diện trong mọi khía cạnh của công việc.
 highlight: |
