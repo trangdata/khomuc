@@ -13,11 +13,11 @@ weight: 1
 
 Sau đây là 4 từ khoá chúng ta nên hỏi ChatGPT để bất kì thứ gì bạn viết trở nên "bánh cuốn" hơn 😁
 
-#### **1. Refine: trau chuốt nội dung**
+#### **1. Refine: trau chuốt nội dung** 
 
 Chúng ta có thể làm cho một đoạn văn chuyên nghiệp hơn (professional), nguyên bản hơn (original), trang trọng hơn (formal), súc tích hơn (concise), miêu tả nhiều hơn (descriptive), thuyết phục hơn (persuasive), nhiều thông tin hơn (informative), định hướng hành động nhiều hơn (action-oriented), mang giọng điệu mỉa mai (sarcastic), nghiêm túc (serious), tích cực (optimistic), tiêu cực (pessimistic).
 
-Ví dụ: Refine this paragraph to make it more optimistic. 
+Refine this paragraph to make it more optimistic. 
 
 #### **2. Summarize: tóm tăt nội dung**
 
@@ -54,4 +54,4 @@ Bạn có thể yêu cầu GPT trau chuốt đoạn văn, kèm với 3 yêu cầ
 
 
 ### Lưu ý nhỏ:
-Một lỗi nhỏ mà nhiều người dùng măc phải là họ chỉ hỏi ChatGPT một lần khi sưa luận. Một trong những điểm cực kì bá đạo của ChatGPT là nó "nhớ" những gì bạn hỏi nó trước đó. Bạn có thể tiếp tục cuộc hội thoại, lái câu trả lời của GPT theo hướng mình muốn, tinh chỉnh văn bản của mình đến khi bạn hài lòng.
+Một lỗi nhỏ mà nhiều người dùng mắc phải là họ chỉ hỏi ChatGPT một lần khi sưa luận. Một trong những điểm cực kì bá đạo của ChatGPT là nó "nhớ" những gì bạn hỏi nó trước đó. Bạn có thể tiếp tục cuộc hội thoại, lái câu trả lời của GPT theo hướng mình muốn, tinh chỉnh văn bản của mình đến khi bạn hài lòng.
