@@ -11,7 +11,7 @@ title: ChatGPT - Người bạn IELTS 9 chấm Writing bá đạo
 weight: 1
 ---
 
-Sau đây là 4 từ khoá chúng ta nên hỏi ChatGPT để bât kì thứ gì bạn viết trở nên "bánh cuốn" hơn 😁
+Sau đây là 4 từ khoá chúng ta nên hỏi ChatGPT để bất kì thứ gì bạn viết trở nên "bánh cuốn" hơn 😁
 
 #### **1. Refine: trau chuốt nội dung**
 
