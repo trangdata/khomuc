@@ -48,6 +48,7 @@ What takeaways can you come up with for this paragraph?
 
 ### Ví dụ:
 Bạn có thể yêu cầu GPT trau chuốt đoạn văn, kèm với 3 yêu cầu: "người đọc là những bé lớp ba", "giọng điệu hài hước", và "tập trung vào chủ đề sáng tạo".
+
 <img width="606" alt="Screen Shot 2023-06-13 at 00 50 42" src="https://github.com/trangdata/khomuc/assets/63031214/6230cb51-35ed-42e2-a637-5462a0a1c0d6">
 
 
