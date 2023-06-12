@@ -11,21 +11,19 @@ title: ChatGPT - Người bạn IELTS 9 chấm Writing bá đạo
 weight: 1
 ---
 
-### Keywords
+Sau đây là 4 từ khoá chúng ta nên hỏi ChatGPT để bât kì thứ gì bạn viết trở nên "bánh cuốn" hơn 😁
 
-Sau đây là 4 từ khoá nên hỏi ChatGPT để người bạn này sửa luận cho bạn:
+#### **1. Refine: trau chuốt nội dung**
 
-#### **1. Trau chuốt câu chữ**
+Chúng ta có thể làm cho một đoạn văn chuyên nghiệp hơn (professional), nguyên bản hơn (original), trang trọng hơn (formal), súc tích hơn (concise), miêu tả nhiều hơn (descriptive), thuyết phục hơn (persuasive), nhiều thông tin hơn (informative), định hướng hành động nhiều hơn (action-oriented), mang giọng điệu mỉa mai (sarcastic), nghiêm túc (serious), tích cực (optimistic), tiêu cực (pessimistic).
 
-Refine, làm cho nó chuyên nghiệp hơn, nguyên bản hơn, trang trọng hơn, ngắn gọn hơn, miêu tả nhiều hơn, lôi cuốn hơn, nhiều thông tin hơn, định hướng hành động nhiều hơn, mang giọng điệu mỉa mai, nghiêm túc, tích cực, tiêu cực.
+Ví dụ: Refine this paragraph to make it more optimistic. 
 
-Refine the paragraph to make it more "professional", "original", "formal", "concise", "descriptive", "persuasive", "informative", "action-oriented", "sarcastic", "serious", "optimistic", or "pessimistic".
-
-#### **2. Tóm tắt nội dung**
+#### **2. Summarize: tóm tăt nội dung**
 
 Summarize this paragraph.
 
-#### **3. Triển khai ý văn bản** 
+#### **3. Triển khai ý văn bản: write more/elaborate on** 
 
 Write more/elaborate on this paragraph.
 
@@ -34,13 +32,11 @@ Write more/elaborate on this paragraph.
 Create more conclusions for this paragraph.
 What takeaways can you come up with for this paragraph?
 
-### Be specific
-
-Kèm theo 1 trong 4 từ khoá , bạn có thể thêm chi tiết về:
+### Bạn có thể thêm thắt những yếu tố sau:
 
 1.  **Giọng điệu (tone):** thoải mái "*lighthearted*", hài hước "*humorous*", etc.
 
-2.  **Tập trung vào một chủ đề nào đó (with a focus on "a certain topic")**
+2.  **Tập trung vào một chủ đề nào đó (with a focus on ...)**
 
 3.  **Cho đối tượng cụ thể đọc (for ... to read)**
 
@@ -50,9 +46,11 @@ Kèm theo 1 trong 4 từ khoá , bạn có thể thêm chi tiết về:
     -   Cho một người 80 tuổi đọc chậm (for an 80-year-old who reads slowly)
     -   Cho người mà tiếng Anh không phải là tiếng mẹ đẻ (for an audience whose English is a second language).
 
-Ví dụ, bạn có thể yêu cầu GPT trau chuốt đoạn văn, kèm với 3 yêu cầu: "người đọc là những bé lớp ba", "giọng điệu hài hước", và "tập trung vào chủ đề sáng tạo".
+### Ví dụ:
+Bạn có thể yêu cầu GPT trau chuốt đoạn văn, kèm với 3 yêu cầu: "người đọc là những bé lớp ba", "giọng điệu hài hước", và "tập trung vào chủ đề sáng tạo".
+<img width="606" alt="Screen Shot 2023-06-13 at 00 50 42" src="https://github.com/trangdata/khomuc/assets/63031214/6230cb51-35ed-42e2-a637-5462a0a1c0d6">
 
-### Ngoài ra
 
-Một trong những điểm đổi mới, cực kì sáng tạo mà chatGPT làm được là nó "nhớ" những gì bạn hỏi nó trước đó.
-Bạn có thể tiếp tục cuộc hội thoại, lái câu trả lời của GPT theo hướng mình muốn, tinh chỉnh văn bản của mình tới đến khi bạn hài lòng.
+
+### Lưu ý nhỏ:
+Một lỗi nhỏ mà nhiều người dùng măc phải là họ chỉ hỏi ChatGPT một lần khi sưa luận. Một trong những điểm cực kì bá đạo của ChatGPT là nó "nhớ" những gì bạn hỏi nó trước đó. Bạn có thể tiếp tục cuộc hội thoại, lái câu trả lời của GPT theo hướng mình muốn, tinh chỉnh văn bản của mình đến khi bạn hài lòng.
