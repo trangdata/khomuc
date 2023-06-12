@@ -32,7 +32,7 @@ Write more/elaborate on this paragraph.
 Create more conclusions for this paragraph.
 What takeaways can you come up with for this paragraph?
 
-##### Bạn có thể thêm thắt những yếu tố sau:
+###### Những yêu cầu phụ:
 
 1.  **Giọng điệu (tone):** thoải mái "*lighthearted*", hài hước "*humorous*", etc.
 
