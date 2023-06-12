@@ -19,7 +19,7 @@ Chúng ta có thể làm cho một đoạn văn chuyên nghiệp hơn (professio
 
 Refine this paragraph to make it more optimistic. 
 
-#### **2. Summarize: tóm tăt nội dung**
+#### **2. Summarize: tóm tắt nội dung**
 
 Summarize this paragraph.
 
@@ -32,7 +32,7 @@ Write more/elaborate on this paragraph.
 Create more conclusions for this paragraph.
 What takeaways can you come up with for this paragraph?
 
-### Bạn có thể thêm thắt những yếu tố sau:
+##### Bạn có thể thêm thắt những yếu tố sau:
 
 1.  **Giọng điệu (tone):** thoải mái "*lighthearted*", hài hước "*humorous*", etc.
 
@@ -46,12 +46,11 @@ What takeaways can you come up with for this paragraph?
     -   Cho một người 80 tuổi đọc chậm (for an 80-year-old who reads slowly)
     -   Cho người mà tiếng Anh không phải là tiếng mẹ đẻ (for an audience whose English is a second language).
 
-### Ví dụ:
-Bạn có thể yêu cầu GPT trau chuốt đoạn văn, kèm với 3 yêu cầu: "người đọc là những bé lớp ba", "giọng điệu hài hước", và "tập trung vào chủ đề sáng tạo".
+### Ví dụ 
+Mình bảo ChatGPT trau chuốt đoạn văn, kèm với 3 yêu cầu: người đọc "là những bé lớp 3", giọng điệu "hài hước", và "tập trung vào chủ đề sáng tạo".
 
 <img width="606" alt="Screen Shot 2023-06-13 at 00 50 42" src="https://github.com/trangdata/khomuc/assets/63031214/6230cb51-35ed-42e2-a637-5462a0a1c0d6">
 
 
-
-### Lưu ý nhỏ:
-Một lỗi nhỏ mà nhiều người dùng mắc phải là họ chỉ hỏi ChatGPT một lần khi sưa luận. Một trong những điểm cực kì bá đạo của ChatGPT là nó "nhớ" những gì bạn hỏi nó trước đó. Bạn có thể tiếp tục cuộc hội thoại, lái câu trả lời của GPT theo hướng mình muốn, tinh chỉnh văn bản của mình đến khi bạn hài lòng.
+### Lưu ý nhỏ
+Một lỗi nhỏ mà nhiều người dùng mắc phải là họ chỉ hỏi ChatGPT một lần khi sửa luận. Một trong những điểm cực kì bá đạo của ChatGPT là nó "nhớ" những gì bạn hỏi nó trước đó. Bạn có thể tiếp tục cuộc hội thoại, lái câu trả lời của GPT theo hướng mình muốn, tinh chỉnh văn bản của mình đến khi bạn hài lòng.
