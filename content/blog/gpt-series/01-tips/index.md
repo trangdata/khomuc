@@ -48,12 +48,11 @@ Kèm theo 1 trong 4 từ khoá , bạn có thể thêm chi tiết về:
     -   Cho sinh viên (for college students)
     -   Cho những bà mẹ bận rộn tuổi 40 (for busy 40-year-old moms)
     -   Cho một người 80 tuổi đọc chậm (for an 80-year-old who reads slowly)
-    -   Cho người mà tiếng Anh không phải là tiếng mẹ đẻ (for an audience where English is a second language).
+    -   Cho người mà tiếng Anh không phải là tiếng mẹ đẻ (for an audience whose English is a second language).
 
 Ví dụ, bạn có thể yêu cầu GPT trau chuốt đoạn văn, kèm với 3 yêu cầu: "người đọc là những bé lớp ba", "giọng điệu hài hước", và "tập trung vào chủ đề sáng tạo".
 
-### Iterations
+### Ngoài ra
 
-Một lỗi nhỏ mà nhiều người dùng mắc phải khi sử dụng chatGPT là họ hỏi chatGPT đúng một lần.
 Một trong những điểm đổi mới, cực kì sáng tạo mà chatGPT làm được là nó "nhớ" những gì bạn hỏi nó trước đó.
-Như vậy, bạn có thể tiếp tục cuộc hội thoại, lái câu trả lời của GPT theo hướng mình muốn, tinh chỉnh văn bản của mình tới đến khi bạn hài lòng.
+Bạn có thể tiếp tục cuộc hội thoại, lái câu trả lời của GPT theo hướng mình muốn, tinh chỉnh văn bản của mình tới đến khi bạn hài lòng.
