@@ -6,7 +6,7 @@ excerpt: ""
 categories:
   - chatGPT
   - tips
-subtitle: "ChatGPT thực sự rất bá đạo vì bất kì ai nếu biết cách sử dụng nó đều có thể viết luận mượt mà, mạch lạc như một người bản địa thực thụ."
+subtitle: "ChatGPT thực sự rất bá đạo vì bất kì ai nếu biết cách sử dụng nó đều có thể viết luận tiếng Anh mượt mà, mạch lạc như một người bản địa thực thụ."
 title: ChatGPT - Người bạn IELTS 9 chấm Writing bá đạo
 weight: 1
 ---
@@ -53,4 +53,4 @@ Mình bảo ChatGPT trau chuốt đoạn văn, kèm với 3 yêu cầu: người
 
 
 ### Lưu ý nhỏ
-Một lỗi nhỏ mà nhiều người dùng mắc phải là họ chỉ hỏi ChatGPT một lần khi sửa luận. Một trong những điểm cực kì bá đạo của ChatGPT là nó "nhớ" những gì bạn hỏi nó trước đó. Bạn có thể tiếp tục cuộc hội thoại, lái câu trả lời của GPT theo hướng mình muốn, tinh chỉnh văn bản của mình đến khi bạn hài lòng.
+Một lỗi nhỏ mà nhiều người dùng mắc phải là họ chỉ hỏi ChatGPT một lần khi sửa luận. Một trong những điểm cực kì bá đạo của ChatGPT là nó "nhớ" những gì bạn hỏi nó trước đó. Bạn có thể tiếp tục cuộc hội thoại, lái câu trả lời của ChatGPT theo hướng mình muốn, tinh chỉnh văn bản của mình đến khi bạn hài lòng.
