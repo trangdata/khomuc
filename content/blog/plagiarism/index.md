@@ -41,8 +41,8 @@ Rõ ràng là nếu bạn copy bài chatGPT viết thì giọng văn, câu từ 
 Theo một quan điểm khác, chatGPT là một công cụ, bạn là người viết prompt để hỏi và tương tác với chatGPT, và bạn là người sửa cuối cùng của bài viết ấy.
 
 Hiện tại, bọn mình không phản đối việc dùng ChatGPT.
-Tuy nhiên, kinh nghiệm của bọn mình sau khi thử ChatGPT cho thấy những bài viết ấy cực kì nhân tạo, artificial, đầy clichés[^1].
-Và clichés và sáo rỗng là cũng đúng thôi, vì nó sẽ cho bạn những câu văn, cụm từ mà nó thấy nhiều nhất trong training set của nó, xào đi xào lại rồi đưa cho bạn.
+Tuy nhiên, kinh nghiệm của bọn mình sau khi thử ChatGPT cho thấy bạn phải tương tác với ChatGPT nhiều để cho ra một bài viết mang tính nguyên bản (original), không thì những gì bạn viết sẽ trở nên cực kì cliché.[^1].
+Và clichés và sáo rỗng là cũng đúng thôi, vì ChatGPT sẽ cho bạn những câu văn, cụm từ mà nó thấy nhiều nhất trong training set của nó, xào đi xào lại rồi đưa cho bạn.
 
 [^1]: a phrase or opinion that is overused and betrays a lack of **original thought**
 
