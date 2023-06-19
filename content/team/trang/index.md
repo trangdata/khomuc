@@ -11,7 +11,7 @@ layout: single
 featured: true
 schools: |
   Lê Quý Đôn (Vũng Tàu), University of Tulsa, University of Pennsylvania
-work: Senior data scientist, Bristol Myers Squibb
+work: Principal scientist, Bristol Myers Squibb
 links:
 - icon: door-open
   icon_pack: fas
