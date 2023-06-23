@@ -26,6 +26,8 @@ Mình đang học Thạc sĩ Kinh tế ở trường KU Leuven, Bỉ.
 Mình đem tới góc nhìn của một Gen Z điển hình cho đội ngũ Khô Mực.
 Nhiệm vụ của mình là viết và review nội dung để nhiều bạn trẻ biết tới Khô Mực hơn.
 
+<p align="center"><img width="300" length="400" alt="IMG_0528_2" src="https://github.com/trangdata/khomuc/assets/63031214/fff10d2e-156f-4cb9-940d-21293d5edba8"></p>
+
 Hồi mình còn bé, mình có viết blog trên Yahoo 360. 
 Blog của mình chỉ đơn thuần về những câu chuyện thường nhật xảy ra ở trường và trong gia đình mình.
 Góc nhìn của mình hết sức ngây ngô nên thành ra nội dung mình viết vô cùng vui nhộn và đáng yêu, thu hút được rất nhiều bạn bè của chị Trang đọc.
@@ -39,3 +41,5 @@ Trong hồ sơ du học Thạc sĩ của mình, ngoại trừ bằng cấp và k
 
 Mình đã thực hiện được ước mơ đi du học của mình, và mình rất vui khi có thể cùng Khô Mực giúp nhiều bạn trẻ nữa thực hiện hoá được ước mơ du học của bản thân!
 :heart:
+
+
