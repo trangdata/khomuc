@@ -22,13 +22,12 @@ title: Hải Triều, Editorial Contributor
 highlight: I'm psyched to work with Kho Muc to help you actualize your dream of studying abroad!
 ---
 
-Mình là Lê Hải Triều.
 Mình đang học Thạc sĩ Kinh tế ở trường KU Leuven, Bỉ.
 Mình đem tới góc nhìn của một Gen Z điển hình cho đội ngũ Khô Mực.
-Mình viết và review nội dung content để nhiều bạn trẻ biết tới Khô Mực hơn.
+Nhiệm vụ của mình là viết và review nội dung để nhiều bạn trẻ biết tới Khô Mực hơn.
 
-Hồi mình còn bé, mình có viết blog trên Yahoo 360.
-Mình chỉ đơn thuần viết về những câu chuyện thường nhật xảy ra ở trường và trong gia đình mình.
+Hồi mình còn bé, mình có viết blog trên Yahoo 360. 
+Blog của mình chỉ đơn thuần về những câu chuyện thường nhật xảy ra ở trường và trong gia đình mình.
 Góc nhìn của mình hết sức ngây ngô nên thành ra nội dung mình viết vô cùng vui nhộn và đáng yêu, thu hút được rất nhiều bạn bè của chị Trang đọc.
 Lên cấp 3 mình đi thi văn cũng ú ớ được giải Ba cấp tỉnh.
 
