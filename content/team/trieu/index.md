@@ -40,5 +40,5 @@ Trong hồ sơ du học Thạc sĩ của mình, ngoại trừ bằng cấp và k
 Mình đã thực hiện được ước mơ đi du học của mình, và mình rất vui khi có thể cùng Khô Mực giúp nhiều bạn trẻ nữa thực hiện hoá được ước mơ du học của bản thân!
 :heart:
 
-<p align="center"><img width="300" length="100" alt="img" src="https://github.com/trangdata/khomuc/assets/63031214/c42ca37f-57ca-486c-9b59-6944d8202acd"></p>
+<p align="center"><img width="600" length="200" alt="img" src="https://github.com/trangdata/khomuc/assets/63031214/c42ca37f-57ca-486c-9b59-6944d8202acd"></p>
 
