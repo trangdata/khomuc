@@ -2,7 +2,9 @@
 date: "2023-07-06"
 author: Trang Lê
 draft: false
-excerpt: ""
+excerpt: |
+  Trong bài này, mình có thể dùng ChatGPT để hỏi những câu hỏi chi tiết hơn và liên quan trực tiếp đến đề bài được đưa ra.
+  Sau đây là ví dụ một input mình đưa vào ChatGPT.
 categories:
   - chatGPT
   - tips

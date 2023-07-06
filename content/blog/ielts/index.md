@@ -6,7 +6,7 @@ categories:
 date: "2023-06-19"
 draft: false 
 excerpt: | 
-  
+  Những mẹo trong bài thi IELTS như dùng nhiều tính từ cao siêu với trạng từ đi kèm, ngữ pháp nâng cao (câu hỏi tu từ, đảo ngữ, v.v.), thành ngữ đao to búa lớn sẽ không cho bạn thêm điểm trong bài luận mà thậm chí còn làm người đọc nghi ngờ những điều bạn viết ra.
 layout: single-sidebar
 tags:
   - IELTS
