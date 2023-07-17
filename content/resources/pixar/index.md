@@ -20,33 +20,7 @@ show_post_time: false
 subtitle: \#storybasics by Emma Coats
 title: Pixar's 22 rules of story telling
 ---
-<style>
-* {
-  box-sizing: border-box;
-}
 
-/* Create two unequal columns that floats next to each other */
-.column {
-  float: left;
-  padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
-}
-
-.left {
-  width: 50%;
-}
-
-.right {
-  width: 50%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
 
 <div class="row">
   <div class="column left">
@@ -163,3 +137,30 @@ If you know that, you can build out from there.
 ![22 rules](summary.png)
 
 </center>
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+.left {
+  width: 50%;
+}
+
+.right {
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
