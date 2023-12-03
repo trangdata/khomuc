@@ -145,10 +145,16 @@ enableEmoji = true
     weight = 5
 
   [[menu.header]]
+    name = "Testimonials"
+    title = "Testimonials"
+    url = "/testimonials/"
+    weight = 6
+
+  [[menu.header]]
     name = "Contact us"
     title = "Contact form"
     url = "/contact/"
-    weight = 6
+    weight = 7
 
   # Configure footer
   [[menu.footer]]
