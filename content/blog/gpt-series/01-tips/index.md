@@ -15,9 +15,9 @@ Sau đây là 4 từ khoá chúng ta nên hỏi ChatGPT để bất kì thứ g�
 
 #### **1. Refine: trau chuốt nội dung** 
 
-Chúng ta có thể làm cho một đoạn văn chuyên nghiệp hơn (professional), nguyên bản hơn (original), trang trọng hơn (formal), súc tích hơn (concise), miêu tả nhiều hơn (descriptive), thuyết phục hơn (persuasive), nhiều thông tin hơn (informative), định hướng hành động nhiều hơn (action-oriented), mang giọng điệu mỉa mai (sarcastic), nghiêm túc (serious), tích cực (optimistic), tiêu cực (pessimistic).
+Chúng ta có thể làm cho một đoạn văn: chuyên nghiệp hơn (professional), nguyên bản hơn (original), trang trọng hơn (formal), súc tích hơn (concise), thuyết phục hơn (persuasive), nhiều thông tin hơn (informative), định hướng hành động nhiều hơn (action-oriented),  miêu tả nhiều hơn (descriptive), nghiêm túc (serious), tích cực (optimistic), tiêu cực (pessimistic), không phán xét (non-critical), lịch sự (polite).
 
-Refine this paragraph to make it more persuasive.
+Refine this paragraph to make it *more persuasive*. 
 
 #### **2. Summarize: tóm tắt nội dung**
 
@@ -46,8 +46,8 @@ What takeaways can you come up with for this paragraph?
     -   Cho một người 80 tuổi đọc chậm (for an 80-year-old who reads slowly).
     -   Cho người mà tiếng Anh không phải là tiếng mẹ đẻ (for an audience whose English is a second language).
 
-### Ví dụ 
-Mình bảo ChatGPT trau chuốt đoạn văn, kèm với 3 yêu cầu: người đọc "là những bé lớp 3", giọng điệu "hài hước", và "tập trung vào chủ đề sáng tạo". 
+### Ví dụ
+Mình bảo ChatGPT trau chuốt đoạn văn, kèm với 3 yêu cầu: người đọc *"là những bé lớp 3"*, giọng điệu *"hài hước"*, và *"tập trung vào chủ đề sáng tạo"*. 
 
 <img width="606" alt="Screen Shot 2023-06-13 at 00 50 42" src="https://github.com/trangdata/khomuc/assets/63031214/6230cb51-35ed-42e2-a637-5462a0a1c0d6">
 
