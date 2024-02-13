@@ -10,16 +10,15 @@ subtitle: "ChatGPT thực sự rất bá đạo vì bất kì ai nếu biết c�
 title: ChatGPT - Người bạn IELTS 9 chấm Writing bá đạo
 weight: 1
 ---
-
 Sau đây là 4 từ khoá chúng ta nên hỏi ChatGPT để bất kì thứ gì bạn viết trở nên "bánh cuốn" hơn 😁
 
 #### **1. Refine: trau chuốt nội dung** 
 
 Chúng ta có thể làm cho một đoạn văn: cụ thể hơn (specific), chuyên nghiệp hơn (professional), nguyên bản hơn (original), trang trọng hơn (formal), súc tích hơn (concise), thuyết phục hơn (persuasive), nhiều thông tin hơn (informative), miêu tả nhiều hơn (descriptive), nghiêm túc (serious), tích cực (optimistic), không phán xét (non-critical), lịch sự (polite).
 
-Phần không liên quan nhưng mình thấy rất nên biết: "non-critical" là từ rất hay để bạn sử dụng trong khi trao đổi email với người khác. GPT đã giúp mình tạo ra những email với tông giọng dễ thương và đi vào lòng người với từ "non-critical".
-
 - Refine this paragraph, make it ***more** persuasive*.
+
+Phần không liên quan nhưng mình thấy rất nên biết: GPT đã giúp mình tạo ra những email với tông giọng dễ thương và đi vào lòng người với từ "non-critical". 
 
 - Refine this paragraph, make it *non-critical*.
 
