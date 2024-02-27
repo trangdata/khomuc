@@ -25,6 +25,10 @@ links:
   icon_pack: far
   name: Slides
   url: http://slides.com/trangdata
+- icon: linkedin
+  icon_pack: fab
+  name: linkedin
+  url: https://www.linkedin.com/in/trangthaole/
 subtitle: Massachusetts, US
 title: Thảo Trang, Co-Founder
 ---
