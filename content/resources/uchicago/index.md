@@ -9,12 +9,14 @@ subtitle: "Đây là bài viết tổng hợp của lớp The Craft of Writing E
 title: "Cách viết luận án Thạc sĩ, Tiến sĩ"
 weight: 1
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vtIzMaLkCaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Video này có những ý tưởng có thể áp dụng được cho việc viết luận án Thạc sĩ, Tiến sĩ mặc dù nó đã xuất hiện trên Youtube cách đây …10 năm! 
 
 #### 1. Bài của bạn có giá trị hay không hoàn toàn phụ thuộc vào người đọc.
 Nếu người đọc thấy bài của bạn không có giá trị, họ sẽ không dành sự chú ý (attention) hay tiền bạc (funding) của họ dành cho bạn. 
 
-Hãy tìm hiểu điều gì ***người đọc*** muốn làm sáng tỏ, điều gì có ý nghĩa và thiết thực, và làm nghiên cứu về điều đó.
+Hãy tìm hiểu điều gì **người đọc** muốn làm sáng tỏ, điều gì có ý nghĩa và thiết thực, và làm nghiên cứu về điều đó.
  
 #### 2. Mỗi ngành đều có CODE riêng.
 Mỗi ngành đều có ***những thuật ngữ, lí thuyết hay từ vựng được sử dụng nhiều*** trong hầu hết các bài nghiên cứu của ngành đó. 
