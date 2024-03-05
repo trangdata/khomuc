@@ -6,12 +6,12 @@ excerpt: ""
 categories:
   - writing
 subtitle: "Đây là bài viết tổng hợp của lớp The Craft of Writing Effectively, University of Chicago."
-title: "Cách viết luận án Thạc sĩ, Tiến sĩ"
+title: "Cách viết luận văn Cử nhân, Thạc sĩ, Tiến sĩ"
 weight: 1
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vtIzMaLkCaM?si=xkBvgyDS7D3BP1Ya" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Video này có những ý tưởng có thể áp dụng được cho việc viết luận án Thạc sĩ, Tiến sĩ mặc dù nó đã xuất hiện trên Youtube cách đây …10 năm! 
+Bài giảng này của thầy Larry hơi bị hay luôn mọi người ơi. Mặc dù video này được quay vào 10 năm trước, thầy Larry có 4 ý tưởng mà mình thấy rất nên biết. 
 
 #### 1. Bài của bạn có giá trị hay không hoàn toàn phụ thuộc vào người đọc.
 Nếu người đọc thấy bài của bạn không có giá trị, họ sẽ không dành sự chú ý (attention) hay tiền bạc (funding) của họ dành cho bạn. 
@@ -34,7 +34,7 @@ Có một vài bạn có xu hướng viết như sau:
 
 Khi bạn sử dụng từ gap trong bài viết của mình, bạn cho rằng kiến thức bị giới hạn giống như các mảnh của một bộ ghép hình và số lượng các mảnh là cố định. Có một số mảnh bị thiếu (gap) và bạn đang có một mảnh. 
 
-<img width="390" alt="Screen Shot 2024-03-05 at 00 07 02" src="https://github.com/trangdata/khomuc/assets/63031214/094fdd93-7ed1-4c7a-92c4-8657f7a6e568">
+![bianca-ackermann-TksUmauJpcA-unsplash](https://github.com/trangdata/khomuc/assets/63031214/6d1ad313-1b80-4e87-882e-e3e25a6703f4)
 
 Tuy nhiên, nếu kiến thức là không giới hạn, số lượng các mảnh ghép bị thiếu sẽ là không giới hạn, và việc bạn có một mảnh ghép sẽ trở nên vô nghĩa. 
 
