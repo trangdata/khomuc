@@ -9,7 +9,7 @@ subtitle: "Đây là bài viết tổng hợp của lớp The Craft of Writing E
 title: "Cách viết luận án Thạc sĩ, Tiến sĩ"
 weight: 1
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vtIzMaLkCaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vtIzMaLkCaM?si=_d1uQj61mBXM4nKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Video này có những ý tưởng có thể áp dụng được cho việc viết luận án Thạc sĩ, Tiến sĩ mặc dù nó đã xuất hiện trên Youtube cách đây …10 năm! 
 
