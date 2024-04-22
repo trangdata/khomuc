@@ -1,5 +1,5 @@
 ---
-author: Ngoc Ta
+author: Ngoc Ta, Trang Le
 categories:
 - timeline
 date: "2024-04-09"
