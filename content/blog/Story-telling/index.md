@@ -19,12 +19,12 @@ title: Story telling in SOP
 
 Chào các bạn, mình lại quay lại đây.
 
-Yêu cầu kể lại một dự án trong SOP (Standard Operating Procedure) là một yêu cầu phổ biến. Vậy chúng ta nên kể những chi tiết gì, và kể như thế nào? Dựa trên các bài viết thực chiến được gửi về Khô Mực, chúng mình cùng tìm hiểu cách viết nhé.
+Yêu cầu kể lại một dự án trong SOP là một yêu cầu phổ biến. Vậy chúng ta nên kể những chi tiết gì, và kể như thế nào? Dựa trên các bài viết thực chiến được gửi về Khô Mực, chúng mình cùng tìm hiểu cách viết nhé.
 
 Sau đây là đoạn giới thiệu startup của một bạn:
 
 Before: 
-> I pursued a master's program in international transitions at xxx. I
+> I pursued a master's program in international transitions at XXX. I
 > developed the "Floating Agriculture" project, which addresses land
 > loss due to rising sea levels while promoting sustainable agriculture.
 > My project got 16/20 and was one of the best projects. Based on this
@@ -66,23 +66,23 @@ Gợi ý sửa:
 
 Kết quả chúng ta có như sau:
 
-> I had the idea about a sustainable agricultural enterprise when I
-> studied the “Green Business Project” at xxx. In this course, I
+> My idea of a sustainable agricultural enterprise stemmed when I
+> studied the *Green Business Project* at XXX. In this course, I
 > developed a business model using floating agriculture to cultivate
-> vegetables for the UK market, earning a score of 16/20, making it one
-> of the top projects in the cohort. Through this project, I researched
-> and realized the potential of this technique and the limits and
-> problems of Vietnam's current agriculture. Hence, I desire to execute
-> “Flowing” in Vietnam. Flowing is the combination of floating and
-> growing. By applying the floating agriculture technique, I desire not
-> only to grow quality vegetables but also to grow the economy of rural
-> Vietnam and empower individuals to cultivate their dreams and improve
+> vegetables for the UK market. The final project earned a score of 16/20, 
+> making it top 5 in the cohort. Through this project, I researched
+> and realized the potential of this technique and the limits
+> of Vietnam's current agriculture. I desire to execute
+> "Flowing" in Vietnam. Flowing is the combination of floating and
+> growing. By applying the floating agriculture technique, we can grow 
+> not only quality vegetables but also the economy of rural Vietnam,
+> empowering individuals to cultivate their dreams and improve
 > their lives. "Flowing" is my dream and a present I wish to offer to my
-> community as an embodiment of the pay-it-forward spirit.
+> community as an embodiment of our pay-it-forward spirit.
 
 Đoạn văn này đã:
 
-- Ngắn gọn, nhẹ nhàng hơn đoạn văn trước, nhưng vẫn đủ ý, ngoài ra còn có dấu ấn cá nhân về lý do tại sao chọn tên Flowing, về “món quà” Flowing bạn muốn gửi đến cho quê hương mình.
+- Ngắn gọn, nhẹ nhàng hơn đoạn văn trước, nhưng vẫn đủ ý, ngoài ra còn có dấu ấn cá nhân về lý do tại sao chọn tên Flowing, về "món quà"" Flowing bạn muốn gửi đến cho quê hương mình.
 
 - Dòng thời gian cụ thể làm người đọc dễ dàng hiểu được logic của mạch truyện.
 
