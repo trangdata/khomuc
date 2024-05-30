@@ -9,13 +9,13 @@ excerpt: |
   Xuân đến, hè sang, nắng ấm, hoa nở, facebook của mình lại nhắc lại các memories của thời gian học A-levels năm đầu tiên. Những ngày tháng đó làm mình nhớ tới thời mới bắt đầu biết đến khái niệm Open days, rồi chọn ngành học, chọn trường học.
 
 layout: single-sidebar
-subtitle: Chân thành với người đọc và cũng là với chính mình.
+subtitle: Chọn trường, chọn ngành, chọn chính mình.
 tags:
   - tips
   - education
 title: Vui học học vui
 ---
-# CHỌN NGÀNH HỌC VUI #
+## Chọn ngành học vui
 
 Chào các bạn, mình đã quay lại đây. Rất xin lỗi các bạn vì sự vắng bóng này.
 Xuân đến, hè sang, nắng ấm, hoa nở, facebook của mình lại nhắc lại các memories của thời gian học A-levels năm đầu tiên. Những ngày tháng đó làm mình nhớ tới thời mới bắt đầu biết đến khái niệm Open days, rồi chọn ngành học, chọn trường học. Mình lúc đó kiểu vừa cảm thấy an tâm vì cuối cùng cũng đã quen với cuộc sống mới, nhưng cũng vừa mông lung vì chưa biết nên làm gì, vì thực sự tính mình vốn lười nhưng mình cũng tự ý thức được là không thể không lao động.
