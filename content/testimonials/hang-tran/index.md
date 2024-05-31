@@ -7,6 +7,8 @@ highlight: |
   Tuition waived at Management for Sustainable Firms, University of Padova;
   Interviewed for EMMIE;
 title: Hằng Trần
+schools: |
+  Université Paris-Est Cretéil (Paris XII)
 links:
 - icon: facebook
   icon_pack: fab
