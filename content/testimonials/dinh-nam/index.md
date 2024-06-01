@@ -5,8 +5,10 @@ layout: single
 schools: |
   VinUniversity
 highlight: |
-  Accepted to PhD programs in Applied Mathematics, University of New Hampshire;
+  Accepted to PhD programs in Applied Mathematics, University of New Hampshire and
   Applied Mathematics, University of Arizona;
+  100% scholarship to Master's program in Big Data Management and Analysis and
+  Master's program in Image Processing and Computer Vision, Erasmus Mundus
 title: Đình Nam 
 links:
 - icon: facebook
