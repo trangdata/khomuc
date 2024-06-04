@@ -6,7 +6,7 @@ date: "2024-06-06"
 draft: false
 featured: true
 layout: single
-location: Lebanon, NH
+location: Online
 show_post_time: false
 title: Những bài nói đầy cảm hứng
 ---
