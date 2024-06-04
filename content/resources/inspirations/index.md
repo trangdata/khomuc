@@ -8,6 +8,11 @@ featured: true
 layout: single
 location: Online
 show_post_time: false
+links:
+  - icon: door-open
+    icon_pack: fas
+    name: source
+    url: https://admit-lab.com/blog/your-winning-phd-application-timeline/
 title: Những bài nói đầy cảm hứng
 ---
 
