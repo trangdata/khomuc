@@ -1,13 +1,18 @@
 ---
 author: Trang Le
 categories:
-  - inspiration
-  - talks
-date: "2024-06-13"
+  - timeline
+date: "2024-04-09"
 draft: false
-layout: single
 featured: true
-location: Lebanon, NH
+layout: single
+location: Online
+show_post_time: false
+links:
+  - icon: door-open
+    icon_pack: fas
+    name: source
+    url: https://admit-lab.com/blog/your-winning-phd-application-timeline/
 title: Những bài nói đầy cảm hứng
 ---
 
