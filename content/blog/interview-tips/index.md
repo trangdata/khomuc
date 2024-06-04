@@ -6,9 +6,9 @@ categories:
 date: "2024-06-03"
 draft: false 
 excerpt: | 
-  Làm sao để chuẩn bị cho buổi phỏng vấn đầu tiên?
+  Cần những gì để chuẩn bị cho buổi phỏng vấn đầu tiên?
 layout: single-sidebar
-subtitle: Làm sao để chuẩn bị cho buổi phỏng vấn đầu tiên?
+subtitle: Cần những gì để chuẩn bị cho buổi phỏng vấn đầu tiên?
 tags:
   - interview
   - confidence
