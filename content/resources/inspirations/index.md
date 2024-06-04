@@ -1,11 +1,12 @@
 ---
 author: Trang Le
 categories:
-- inspiration
-- talks
+  - inspiration
+  - talks
 date: "2024-06-13"
 draft: false
 layout: single
+featured: true
 location: Lebanon, NH
 title: Những bài nói đầy cảm hứng
 ---
