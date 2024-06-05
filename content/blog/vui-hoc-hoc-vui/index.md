@@ -47,8 +47,9 @@ _Ví dụ thứ 2_: Bản thân mình. Mình có thể làm toán nhưng mình k
 - Mình đi open days của LSE và Bath 1 năm trước khi chính thức apply, thấy các thầy cô bộ môn rất thân thiện, trẻ đẹp, lại còn không kén chọn đầu vào (không bắt phải học Toán ở A-levels). Mình thì có học cả toán nâng cao nhưng mình cũng không quá thích môn này nên mình hơi ngại khi nghĩ tới viễn cảnh phải làm toán cả cuộc đời. 
 - Sau đó mình về tìm hiểu thêm về ngành kế toán. Mình hỏi thêm những người thân trong gia đình đang làm ở ngân hàng. Chú mình đã nói một câu mà mình nhớ mãi “Tiền là máu của doanh nghiệp”, câu nói này khơi thông được ý hiểu đầu tiên của mình về ngành.
 - Rồi mình tìm tài liệu ở wikipedia và các websites để đọc. Mỗi cuối tuần mình lại đọc một ít, trong tuần ngẫm nghĩ dần.
+
 Sau khi đã chọn được ngành học mong muốn, việc tiếp theo là chọn đất nước bạn muốn đến. Việc này nên dựa vào các tiêu chí sau:
-Markup: - Budget
+- Budget
 - Lối sống. Mình rất sợ lạnh nên mình chỉ chọn các trường từ phía Trung – Nam nước Anh trở xuống. Mình cũng không chọn các nước Bắc Âu vì lạnh quá. 
 - Tham khảo trong các group facebook của hội sinh viên và đi các event tư vấn du học.
         
