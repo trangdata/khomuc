@@ -76,7 +76,8 @@ Khô Mực đã gợi ý cho bạn viết về khía cạnh chuyên môn của s
 
 5. : Kiểm tra lại chính tả, ngữ pháp và sự mạch lạc, liên kết giữa các câu, các ý  
 
-Kết quả cuối cùng chúng ta có như sau (*PS*):  
+Kết quả cuối cùng chúng ta có như sau:
+*PS*:  
 
 > To translate theory into practice, my friends and I launched EM-IN - an initiative addressing the limited emphasis on emotional
 > intelligence (EQ) in Vietnam's child development and education system.
