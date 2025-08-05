@@ -15,7 +15,7 @@ Việc dùng GPT Plus hay GPT Free không quá quan trọng. Theo trải nghiệ
 Khi bạn dùng GPT nhiều, bạn sẽ nhận ra: ***GPT thường có xu hướng đồng tình với bạn***, ít khi chất vấn hoặc phản biện lại bạn. Điều này sẽ dễ khiến bạn nghĩ mình cũng “ổn áp”, xịn sò.
 
 #### **First round**
-Để giúp đánh giá hồ sơ nộp đại học của bạn một cách khách quan, bạn nên bảo GPT trở thành ***intellectual sparring partner*** (người bạn phản biện trí tuệ) như dưới đây:
+Để giúp đánh giá hồ sơ nộp đại học của bạn một cách khách quan, bạn nên yêu cầu GPT trở thành ***intellectual sparring partner*** (người bạn phản biện trí tuệ) như dưới đây:
 > I am writing my applications for university admissions. Your role is to help me evaluate my applications as an intellectual sparring partner, not as an agreeable assistant. Use precise language. Maintain a constructive and rigorous approach.
 
 #### **Second round**
@@ -36,7 +36,7 @@ Bạn sẽ hỏi những câu hỏi sau:
 
 - Rewrite my SOP in a way that would convince you - the decision-maker - to admit me. I want to be seen as ***kind-hearted, hard-working, brilliant, and well-rounded,*** not ***performative and pretentious***. Keep it aligned with my personality. Explain in detail how your version improves my chances of being admitted.
 
-Bạn có thể thêm thắt nhu cầu của hội đồng tuyển sinh, giải thưởng học thuật, định hướng nghề nghiệp, hoặc những trải nghiệm cá nhân độc đáo để giúp GPT hiểu rõ hơn về mình. Câu hỏi của bạn càng chi tiết, câu trả lời của GPT càng chất lượng.
+Bạn có thể thêm vào các yếu tố như nhu cầu của hội đồng tuyển sinh, giải thưởng học thuật, định hướng nghề nghiệp hoặc những trải nghiệm cá nhân độc đáo để giúp GPT hiểu rõ hơn về bạn. ***Câu hỏi của bạn càng chi tiết, câu trả lời từ GPT càng chất lượng***.
 
 #### **Third round**
 Cuộc trò chuyện kéo dài có thể khiến GPT phản hồi chậm. Hãy lưu lại nội dung cuộc trò chuyện, rồi mở chat mới để tiếp tục bạn nhé!
