@@ -36,5 +36,11 @@ Bạn sẽ hỏi những câu hỏi sau:
 
 - Rewrite my SOP in a way that would convince you - the decision-maker - to admit me. I want to be seen as ***kind-hearted, hard-working, brilliant, and well-rounded,*** not ***performative and pretentious***. Keep it aligned with my personality. Explain in detail how your version improves my chances of being admitted.
 
+Bạn có thể thêm thắt nhu cầu của hội đồng tuyển sinh, giải thưởng học thuật, định hướng nghề nghiệp, hoặc những trải nghiệm cá nhân độc đáo để giúp GPT hiểu rõ hơn về mình. Câu hỏi của bạn càng chi tiết, câu trả lời của GPT càng chất lượng.
+
+#### **Third round**
+Cuộc trò chuyện kéo dài có thể khiến GPT phản hồi chậm. Hãy lưu lại nội dung cuộc trò chuyện, rồi mở chat mới để tiếp tục bạn nhé!
+> Save this whole conversation to your memory.
+
 #### Lưu ý nhỏ:
 Câu trả lời từ GPT chỉ mang tính tham khảo, giúp bạn hiểu rõ điểm mạnh và điểm yếu trong hồ sơ của mình. Chúc các bạn thành công! 
