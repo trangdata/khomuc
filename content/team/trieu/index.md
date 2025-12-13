@@ -9,10 +9,6 @@ featured: true
 schools: |
   THPT Vũng Tàu, Đại học Kinh tế thành phố HCM, KU Leuven (Bỉ)
 links:
-- icon: facebook
-  icon_pack: fab
-  name: facebook
-  url: https://www.facebook.com/effervescentbelle
 - icon: github
   icon_pack: fab
   name: code
@@ -41,4 +37,3 @@ Mình đã thực hiện được ước mơ đi du học của mình, và mình
 :heart:
 
 <p align="center"><img width="600" length="200" alt="img" src="https://github.com/trangdata/khomuc/assets/63031214/c42ca37f-57ca-486c-9b59-6944d8202acd"></p>
-
