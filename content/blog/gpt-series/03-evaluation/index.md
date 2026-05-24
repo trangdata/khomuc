@@ -41,10 +41,10 @@ Cuộc trò chuyện kéo dài có thể khiến GPT phản hồi chậm. Hãy l
 > Update your memory with the most important points from this conversation.
 
 #### Lưu ý nhỏ:
-1. Bạn cũng có thể sử dụng những AI khác để đánh giá hồ sơ đại học của mình. Lí do mình vẫn khuyên bạn dùng GPT là vì số lượng người dùng của GPT vẫn lớn nhất so với các AI khác. Lượng dữ liệu khổng lồ mà GPT thu thập được từ người dùng giúp GPT nhìn ra được pattern rất nhanh, và nhờ vậy bạn có được bức tranh tổng thể nhất về năng lực, điểm yếu và điểm mạnh của bản thân.
+- Bạn cũng có thể sử dụng những AI khác để đánh giá hồ sơ đại học của mình. Lí do mình vẫn khuyên bạn dùng GPT là vì số lượng người dùng của GPT vẫn lớn nhất so với các AI khác. Lượng dữ liệu khổng lồ mà GPT thu thập được từ người dùng giúp GPT nhìn ra được pattern rất nhanh, và nhờ vậy bạn có được bức tranh tổng thể nhất về năng lực, điểm yếu và điểm mạnh của bản thân.
    
-2. Bạn rất nên ***tự viết hồ sơ với chất giọng của riêng mình*** và chỉ sử dụng AI như công cụ hỗ trợ làm sắc bén văn phong của bản thân. Nếu bạn quá lạm dụng những công cụ này, bài của bạn sẽ đọc rất giống như là viết bởi AI.
-  
-3. Bạn cũng nên đưa bài của mình cho người thật đọc để họ đưa ra nhận định thực tế về hồ sơ của mình.
+- Bạn rất nên ***tự viết hồ sơ với chất giọng của riêng mình*** và chỉ sử dụng AI như công cụ hỗ trợ. Nếu bạn quá lạm dụng những công cụ này, bài của bạn sẽ đọc rất giống như là viết bởi AI.
+
+- Bạn cũng nên đưa bài của mình cho người thật đọc để họ đưa ra nhận định thực tế về hồ sơ của mình.
 
 Chúc các bạn thành công! ^____^
