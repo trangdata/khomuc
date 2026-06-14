@@ -10,8 +10,6 @@ title: Đánh giá hồ sơ nộp đại học cùng GPT
 weight: 2
 ---
 
-Việc dùng GPT Plus hay GPT Free không quá quan trọng. Theo trải nghiệm của mình, đôi khi GPT Free ***đưa ra câu trả lời còn thông minh hơn*** cả GPT Plus.
- 
 Khi bạn dùng GPT nhiều, bạn sẽ nhận ra: ***GPT thường có xu hướng đồng tình với bạn***, ít khi chất vấn hoặc phản biện lại bạn. Điều này sẽ dễ khiến bạn nghĩ mình cũng “ổn áp”, xịn sò.
 
 #### **First round**
